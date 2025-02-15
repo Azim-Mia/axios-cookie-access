@@ -1,9 +1,9 @@
 # Backend side Handle  
 const cors=require('cors')    
 app.use(cors( 
-origin:[http:localhost: give me port number],  
+origin:["http:localhost: give me port number"],  
 credentials:true,   
-methot:['GET', 'POST'],  
+method:['GET', 'POST'],  
 ));
 ........................................................     
 # fontend side handle  
